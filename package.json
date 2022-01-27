@@ -1,0 +1,22 @@
+{
+  "name": "gulp_proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify-es": "^3.0.0",
+    "jquery": "^3.6.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp-concat": "^2.6.1",
+    "sass": "^1.49.0"
+  }
+}
